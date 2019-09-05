@@ -9,8 +9,8 @@ body {
 
 .jumbotron img {
     width: 200px;
-    height: 150px;
-    border: 5px solid #666;
+    height: 200px;
+    border: 5px solid rgb(88, 88, 88);
 }
 
 hr {
